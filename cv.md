@@ -10,7 +10,7 @@
 **Phone:** +79606365731 <br>
 **E-mail:** alleriya.a@gmail.com<br>
 **Telegram:** @evernia<br> 
-**discord:** Evernia#0839
+**discord:** Evernia(@Evernia)
 
 ### About Me
 
