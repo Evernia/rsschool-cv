@@ -27,7 +27,7 @@ Thanks to my work, I often settle conflict situations. Even at the stage of obta
 
 ### Code example:
 
-*Create a form with a file with a data handler located at / people. Inside the form, create 2 radio buttons. Link them by nesting an <input> inside a <label>. The unique name for the radio buttons is gender. Don't forget to add the value attribute.*
+*Create a form with a file with a data handler located at / people. Inside the form, create 2 radio buttons. Link them by nesting an input inside a label. The unique name for the radio buttons is gender. Don't forget to add the value attribute.*
   
   ```
   <form action="/people">
