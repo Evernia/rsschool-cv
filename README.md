@@ -1,2 +1,4 @@
 # rsschool-cv
-CV#1. Markdown &amp; Git
+
+-https://evernia.github.io/rsschool-cv/cv
+-https://Evernia.github.io/rsschool-cv/
