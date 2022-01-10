@@ -7,7 +7,7 @@
 
 ### Contacts information:
 
-**Phone:** +79606365731 <br>
+**Phone:** +70000000000 <br>
 **E-mail:** alleriya.a@gmail.com<br>
 **Telegram:** @evernia<br> 
 **discord:** Evernia(@Evernia)
